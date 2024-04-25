@@ -1,6 +1,3 @@
-
-
-
 int qtdlinhas = 3, qtdcolunas = 3;
 float[,] matriz1 = new float[qtdlinhas, qtdcolunas];
 float[,] matriz2 = new float[qtdlinhas, qtdcolunas];
@@ -130,6 +127,8 @@ for (int linha = 0; linha < qtdlinhas; linha++) //
     }
 }
 Console.ReadLine();
+int x = 0;
+//comentss
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 /////
 
